@@ -4,7 +4,7 @@ Tags: members only
 Requires PHP: 5.6
 Requires at least: 5.0
 Tested up to: 5.4.2
-Stable tag: 0.9
+Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: Members Only Posts
-Plugin URI: http://carrcommunications.com
+Plugin URI: https://github.com/davidfcarr/members-only-posts
 Description: Create posts that will only be displayed (and listed in search) for logged in members. Just add the special category Members Only to any post not to be shared publicly. Includes Members Only sidebar widget and Site News widget (all posts not in Members Only category)
 Author: David F. Carr
 Tags: Members Only, Private Posts
 Author URI: http://www.carrcommunications.com
 Text Domain: members-only
-Version: 0.9
+Version: 1.0
 */
 
 include 'members-only-widgets.php';
